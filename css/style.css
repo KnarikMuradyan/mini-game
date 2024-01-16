@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.go {
+    opacity: 0;
+}
+
+.stop {
+    opacity: 1;
+}
+
+#my_box {
+    max-width: 400px;
+}
+ button{
+    padding: 20px;
+    border: 1px solid red;
+    color:red;
+    background:bisque;
+    margin: 20px;
+    border-radius: 20px;
+ }
+   .btns{
+    padding: 0 60px;
+   }
+
+   h3{
+    color:red;
+    font-size: 60px;
+    margin: 30px;
+   }
+
+   section{
+    padding: 60px;
+    width: 50%;
+    margin: 0 auto;
+   }
+
